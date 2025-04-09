@@ -27,6 +27,12 @@ Real-time face mask detection system using deep learning and webcam feed.
 
 4. (Optional) Test with demo video:  
    Play `face_video_2.mp4` for reference
+## 🎥 App Variants
+
+- `face_mask_video_input.py`: Detects masks on a pre-recorded video
+- `face_mask_webcam_app.py`: Detects masks in real-time using webcam input
+
+> *Note:* Video file showing webcam output is too large for GitHub but available on LinkedIn post.
 
 ##  Files
 - `mask_detector_app.py`: Real-time detection script
